@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="PhotoShop logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/FF9A00" height="30" alt="PhotoShop logo"  />
   <img width="12" />
 </div>
 
