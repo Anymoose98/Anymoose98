@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" height="30" alt="PhotoShop logo"  />
   <img width="12" />
+    <img src="https://w7.pngwing.com/pngs/1011/30/png-transparent-java-runtime-environment-java-development-kit-computer-software-macos-gucci-logo-miscellaneous-text-logo.png" height="30" alt="Java logo"  />
+  <img width="12" />
 </div>
 
 ###
